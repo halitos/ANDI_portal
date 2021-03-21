@@ -1,0 +1,32 @@
+.Results {
+  display: flex;
+  align-items: center;
+  justify-content: stretch;
+  flex-grow: 1;
+
+  &__andis {
+    background-color: #e32e37;
+    overflow: scroll;
+  }
+
+  &__grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  &__gif {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.Title {
+  color: #e32e37;
+}
+
+.Card {
+  margin: 0.5em;
+  width: calc(33.333% - 1em);
+}

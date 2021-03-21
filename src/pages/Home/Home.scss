@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+
+  min-height: 100vh;
+}
+
+.left {
+  min-height: 100vh;
+  background-color: #ff323c;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.right {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

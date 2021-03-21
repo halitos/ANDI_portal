@@ -1,0 +1,9 @@
+[
+    { "name": "Nigel Jones", "role": "Tech Principal", "title": "Guitarist", "gif": "https://media.giphy.com/media/9Dgf4pFMzSrTrE4Urj/giphy.gif" },
+    { "name": "Josh McEwen", "role": "Associate", "title": "Weekend Hiker", "gif": "https://media.giphy.com/media/xl2lV5jtwr3hUZKQnt/giphy.gif" },
+    { "name": "Halit Oskan", "role": "Associate", "title": "Tea Lover", "gif": "https://media.giphy.com/media/3Hw9ggazsWYtC8YzJW/giphy.gif" },
+    { "name": "Katie Downs", "role": "Product Analyst", "title": "House Plant Whisperer", "gif": "https://media.giphy.com/media/3o6Mbf6wpFNQN2yTvO/giphy.gif" },
+    { "name": "Alex Costigan", "role": "Associate", "title": "Caffeine Addict", "gif": "https://media.giphy.com/media/DrJm6F9poo4aA/giphy.gif" },
+    { "name": "Dan Roberts", "role": "Product Analyst", "title": "City Explorer", "gif": "https://media.giphy.com/media/U4YEoSRgz5JtebnYqH/giphy.gif" },
+    { "name": "Beenish Butt", "role": "Associate", "title": "Baker", "gif": "https://media.giphy.com/media/3o6vXRKhQXTkeobEac/giphy.gif" }
+]
